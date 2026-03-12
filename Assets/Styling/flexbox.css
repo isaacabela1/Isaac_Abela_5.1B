@@ -21,5 +21,15 @@ margin-right: auto;
 
 .flex{
     display: flex;
-    
+
 }
+
+.sidebar{
+    flex-grow: 1;
+
+}
+
+.maincontent{
+    flex-grow: 3;
+}
+
